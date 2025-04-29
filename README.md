@@ -1,2 +1,3 @@
 # Telegram-Bot-n8n
- N8N بوت تلجرام مبني على اداة 
+   node_modules
+.env
