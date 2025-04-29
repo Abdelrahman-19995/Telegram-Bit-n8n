@@ -1,2 +1,2 @@
-# Telegram-Bit-n8n
+# Telegram-Bot-n8n
  N8N بوت تلجرام مبني على اداة 
